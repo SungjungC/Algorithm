@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.126182"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.126614"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "inPlaceQuickSort"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.1268719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.127108"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.127337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.1275671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.127845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "find_pivot_index"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.1282409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.128522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.1287659"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.128997"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "inPlacePartition"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181002TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;05&#x110f;&#x1171;&#x11a8;&#x110c;&#x1165;&#x11bc;&#x1105;&#x1167;&#x11af;/main.c"
+            timestampString = "561647355.129252"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

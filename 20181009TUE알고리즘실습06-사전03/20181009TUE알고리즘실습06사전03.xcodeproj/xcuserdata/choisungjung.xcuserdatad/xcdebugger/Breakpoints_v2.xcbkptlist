@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181009TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;06&#x1109;&#x1161;&#x110c;&#x1165;&#x11ab;03/main.c"
+            timestampString = "560614148.233169"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181009TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;06&#x1109;&#x1161;&#x110c;&#x1165;&#x11ab;03/main.c"
+            timestampString = "560614148.23355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181009TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;06&#x1109;&#x1161;&#x110c;&#x1165;&#x11ab;03/main.c"
+            timestampString = "560614148.23375"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181009TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;06&#x1109;&#x1161;&#x110c;&#x1165;&#x11ab;03/main.c"
+            timestampString = "560614148.23394"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20181009TUE&#x110b;&#x1161;&#x11af;&#x1100;&#x1169;&#x1105;&#x1175;&#x110c;&#x1173;&#x11b7;&#x1109;&#x1175;&#x11af;&#x1109;&#x1173;&#x11b8;06&#x1109;&#x1161;&#x110c;&#x1165;&#x11ab;03/main.c"
+            timestampString = "560614148.234127"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
