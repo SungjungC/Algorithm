@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		188082B021929102003E71A8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 188082AF21929102003E71A8 /* main.c */; };
+		1818D81A2199A2EF00341310 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 1818D8192199A2EF00341310 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		188082AA21929102003E71A8 /* CopyFiles */ = {
+		1818D8142199A2EF00341310 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		188082AC21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "20181113TUE알고리즘실습09-01그래프"; sourceTree = BUILT_PRODUCTS_DIR; };
-		188082AF21929102003E71A8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		1818D8162199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "20181113TUE알고리즘실습09-그래프표현01(리스트)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1818D8192199A2EF00341310 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		188082A921929102003E71A8 /* Frameworks */ = {
+		1818D8132199A2EF00341310 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		188082A321929102003E71A8 = {
+		1818D80D2199A2EF00341310 = {
 			isa = PBXGroup;
 			children = (
-				188082AE21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */,
-				188082AD21929102003E71A8 /* Products */,
+				1818D8182199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */,
+				1818D8172199A2EF00341310 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		188082AD21929102003E71A8 /* Products */ = {
+		1818D8172199A2EF00341310 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				188082AC21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */,
+				1818D8162199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		188082AE21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */ = {
+		1818D8182199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */ = {
 			isa = PBXGroup;
 			children = (
-				188082AF21929102003E71A8 /* main.c */,
+				1818D8192199A2EF00341310 /* main.c */,
 			);
-			path = "20181113TUE알고리즘실습09-01그래프";
+			path = "20181113TUE알고리즘실습09-그래프표현01(리스트)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		188082AB21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */ = {
+		1818D8152199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 188082B321929102003E71A8 /* Build configuration list for PBXNativeTarget "20181113TUE알고리즘실습09-01그래프" */;
+			buildConfigurationList = 1818D81D2199A2EF00341310 /* Build configuration list for PBXNativeTarget "20181113TUE알고리즘실습09-그래프표현01(리스트)" */;
 			buildPhases = (
-				188082A821929102003E71A8 /* Sources */,
-				188082A921929102003E71A8 /* Frameworks */,
-				188082AA21929102003E71A8 /* CopyFiles */,
+				1818D8122199A2EF00341310 /* Sources */,
+				1818D8132199A2EF00341310 /* Frameworks */,
+				1818D8142199A2EF00341310 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "20181113TUE알고리즘실습09-01그래프";
-			productName = "20181113TUE알고리즘실습09-01그래프";
-			productReference = 188082AC21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */;
+			name = "20181113TUE알고리즘실습09-그래프표현01(리스트)";
+			productName = "20181113TUE알고리즘실습09-그래프표현01(리스트)";
+			productReference = 1818D8162199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		188082A421929102003E71A8 /* Project object */ = {
+		1818D80E2199A2EF00341310 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "최성정";
 				TargetAttributes = {
-					188082AB21929102003E71A8 = {
+					1818D8152199A2EF00341310 = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 188082A721929102003E71A8 /* Build configuration list for PBXProject "20181113TUE알고리즘실습09-01그래프" */;
+			buildConfigurationList = 1818D8112199A2EF00341310 /* Build configuration list for PBXProject "20181113TUE알고리즘실습09-그래프표현01(리스트)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 188082A321929102003E71A8;
-			productRefGroup = 188082AD21929102003E71A8 /* Products */;
+			mainGroup = 1818D80D2199A2EF00341310;
+			productRefGroup = 1818D8172199A2EF00341310 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				188082AB21929102003E71A8 /* 20181113TUE알고리즘실습09-01그래프 */,
+				1818D8152199A2EF00341310 /* 20181113TUE알고리즘실습09-그래프표현01(리스트) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		188082A821929102003E71A8 /* Sources */ = {
+		1818D8122199A2EF00341310 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188082B021929102003E71A8 /* main.c in Sources */,
+				1818D81A2199A2EF00341310 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		188082B121929102003E71A8 /* Debug */ = {
+		1818D81B2199A2EF00341310 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -184,7 +184,7 @@
 			};
 			name = Debug;
 		};
-		188082B221929102003E71A8 /* Release */ = {
+		1818D81C2199A2EF00341310 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -236,7 +236,7 @@
 			};
 			name = Release;
 		};
-		188082B421929102003E71A8 /* Debug */ = {
+		1818D81E2199A2EF00341310 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -244,7 +244,7 @@
 			};
 			name = Debug;
 		};
-		188082B521929102003E71A8 /* Release */ = {
+		1818D81F2199A2EF00341310 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -255,25 +255,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		188082A721929102003E71A8 /* Build configuration list for PBXProject "20181113TUE알고리즘실습09-01그래프" */ = {
+		1818D8112199A2EF00341310 /* Build configuration list for PBXProject "20181113TUE알고리즘실습09-그래프표현01(리스트)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				188082B121929102003E71A8 /* Debug */,
-				188082B221929102003E71A8 /* Release */,
+				1818D81B2199A2EF00341310 /* Debug */,
+				1818D81C2199A2EF00341310 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		188082B321929102003E71A8 /* Build configuration list for PBXNativeTarget "20181113TUE알고리즘실습09-01그래프" */ = {
+		1818D81D2199A2EF00341310 /* Build configuration list for PBXNativeTarget "20181113TUE알고리즘실습09-그래프표현01(리스트)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				188082B421929102003E71A8 /* Debug */,
-				188082B521929102003E71A8 /* Release */,
+				1818D81E2199A2EF00341310 /* Debug */,
+				1818D81F2199A2EF00341310 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 188082A421929102003E71A8 /* Project object */;
+	rootObject = 1818D80E2199A2EF00341310 /* Project object */;
 }
